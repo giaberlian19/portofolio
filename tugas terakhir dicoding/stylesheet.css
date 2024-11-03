@@ -1,0 +1,62 @@
+header {
+    text-align: center;
+    background-color: #20B2AA;
+    padding: 30px;
+    box-shadow: 3px 3px 9px 9px gray;
+}
+h1 {
+    font-family: sans-serif;
+    color: white;
+}
+p {
+    text-align: center;
+    font-family: sans-serif;
+    color: azure;
+}
+body {
+    font-family: sans-serif;
+}
+nav ul {
+    list-style-type: none;
+    padding: 20px;
+    margin: 0;
+    overflow: hidden;
+    padding: 30px;
+    background-color: seagreen;
+}
+nav li {
+    float: left;
+}
+nav li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 30px;    
+}
+nav li a:hover, a:active {
+    background-color: skyblue;
+}
+div.maps {
+    text-align: center;
+    box-shadow: 3px 3px 3px 9px gray;
+    padding: 30px;
+    border-image: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+table {
+    margin: auto;
+}
+div.gubernur {
+    box-sizing: border-box;
+    margin: 0;
+    text-align: center;
+    width: 50%;
+    float: left;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px gray;
+    padding: 20px;
+    background-color: lightblue;
+}
+p {
+    color: black;
+}

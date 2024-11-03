@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: rgb(232, 166, 166);
+    
+}
+h2 {
+    background-color: aquamarine;
+    text-decoration: none;
+    padding: 20px 50px;
+    display: inline-block;
+}
+p {
+    background-color: azure;
+    padding: 10px 30px;
+}
+h1 {
+    background-color: blanchedalmond;
+    color: black;
+    padding: 20px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
